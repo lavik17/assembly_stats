@@ -23,3 +23,7 @@ Fields 8-14 refer to scaffodls longer than 1kb
 12. The average length of scaffolds that are longer than 1kb
 13. N50 of scaffolds that are longer than 1kb
 14. Percent of scaffolds that are longer than 1kb (calculated from 11 and 5)
+
+
+requires:
+Python 3.x, Biopython, numpy 
