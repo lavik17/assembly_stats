@@ -2,11 +2,15 @@
 The script provides some statistics for assemblies. It will ask for the following files:
 
 File containing PE reads (FASTA format)
+
 File containing scaffolds  (FASTA format)
+
 File containing scaffolds that are longer than 1kb (FASTA format)
 
 The output is placed in a file named assembly_stats.csv and contains the following values:
+
 Fields 1-7 refer to all assembled scaffolds
+
 Fields 8-14 refer to scaffodls longer than 1kb
 
 1. Number of bp in assembly
